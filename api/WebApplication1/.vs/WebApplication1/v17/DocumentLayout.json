@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0021EF10-2FAC-4D35-BE2C-0AC8ECAFF806}|WebApplication1.csproj|d:\\githubprojects\\todoapp\\api\\webapplication1\\controllers\\todoappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021EF10-2FAC-4D35-BE2C-0AC8ECAFF806}|WebApplication1.csproj|solutionrelative:controllers\\todoappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021EF10-2FAC-4D35-BE2C-0AC8ECAFF806}|WebApplication1.csproj|d:\\githubprojects\\todoapp\\api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0021EF10-2FAC-4D35-BE2C-0AC8ECAFF806}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021EF10-2FAC-4D35-BE2C-0AC8ECAFF806}|WebApplication1.csproj|d:\\githubprojects\\todoapp\\api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021EF10-2FAC-4D35-BE2C-0AC8ECAFF806}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:39:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T06:31:28.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoAppController.cs",
+              "DocumentMoniker": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\Controllers\\ToDoAppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoAppController.cs",
+              "ToolTip": "D:\\GitHubProjects\\ToDoApp\\api\\WebApplication1\\Controllers\\ToDoAppController.cs",
+              "RelativeToolTip": "Controllers\\ToDoAppController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:25:31.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
